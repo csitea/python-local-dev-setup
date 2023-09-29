@@ -1,0 +1,13 @@
+ [INFO  ] 2023-09-28 16:16:47 EEST [python-local-dev-setup][@radi-HP-250] [37153] START ::: running action :: do_print_usage 
+ [INFO  ] 2023-09-28 13:33:21 UTC [python-local-dev-setup][@a2e6ebd41ded] [8] START ::: running action :: do_check_install_poetry 
+ [INFO  ] 2023-09-28 13:33:21 UTC [python-local-dev-setup][@a2e6ebd41ded] [8] STOP ::: running function :: do_check_install_poetry 
+ [OK    ] 2023-09-28 13:33:21 UTC [python-local-dev-setup][@a2e6ebd41ded] [8] python-local-dev-setup's run completed 
+ [INFO  ] 2023-09-28 13:48:55 UTC [python-local-dev-setup][@b2962a6433ce] [8] START ::: running action :: do_check_install_poetry 
+ [INFO  ] 2023-09-28 13:48:55 UTC [python-local-dev-setup][@b2962a6433ce] [8] STOP ::: running function :: do_check_install_poetry 
+ [OK    ] 2023-09-28 13:48:55 UTC [python-local-dev-setup][@b2962a6433ce] [8] run's run completed 
+ [INFO  ] 2023-09-28 13:55:38 UTC [python-local-dev-setup][@943e97231fb9] [7] START ::: running action :: do_check_install_poetry 
+ [INFO  ] 2023-09-28 13:56:43 UTC [python-local-dev-setup][@943e97231fb9] [7] STOP ::: running function :: do_check_install_poetry 
+ [OK    ] 2023-09-28 13:56:43 UTC [python-local-dev-setup][@943e97231fb9] [7] run's run completed 
+ [INFO  ] 2023-09-28 14:10:18 UTC [python-local-dev-setup][@5ef189c065c3] [8] START ::: running action :: do_check_install_poetry 
+ [INFO  ] 2023-09-28 14:11:26 UTC [python-local-dev-setup][@5ef189c065c3] [8] STOP ::: running function :: do_check_install_poetry 
+ [OK    ] 2023-09-28 14:11:26 UTC [python-local-dev-setup][@5ef189c065c3] [8] run's run completed 
